@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537882814099.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1845058692",
+    "id" : "56306B91",
+    "lastKnownWriteTime" : 1537884328,
+    "last_content_update" : 1537884328094,
+    "path" : "~/Datacamp_R/gapminder/data_wrangling.R",
+    "project_path" : "data_wrangling.R",
+    "properties" : {
+        "cursorPosition" : "46,0",
+        "scrollLine" : "26",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537885784085.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3633071648",
+    "id" : "288F8CD6",
+    "lastKnownWriteTime" : 1537983917,
+    "last_content_update" : 1537983917621,
+    "path" : "~/Datacamp_R/gapminder/group_by_&_summarize.R",
+    "project_path" : "group_by_&_summarize.R",
+    "properties" : {
+        "cursorPosition" : "56,0",
+        "scrollLine" : "40",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537884334546.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3266133076",
+    "id" : "5C3EEFDB",
+    "lastKnownWriteTime" : 1537885745,
+    "last_content_update" : 1537885745038,
+    "path" : "~/Datacamp_R/gapminder/data_visualization.R",
+    "project_path" : "data_visualization.R",
+    "properties" : {
+        "cursorPosition" : "37,0",
+        "scrollLine" : "18",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

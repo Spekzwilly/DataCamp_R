@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537755283097.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1890351126",
+    "id" : "E3642AA8",
+    "lastKnownWriteTime" : 1537806180,
+    "last_content_update" : 1537806181064,
+    "path" : "~/Datacamp_R/intermediate.R",
+    "project_path" : "intermediate.R",
+    "properties" : {
+        "cursorPosition" : "75,0",
+        "scrollLine" : "55",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
